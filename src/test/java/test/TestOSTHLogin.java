@@ -10,7 +10,7 @@ import pages.OSTHLogin;
 
 public class TestOSTHLogin {
 
-    String dirverPath = "C:\\Users\\Peri\\Downloads\\chromedriver.exe";
+    String dirverPath = "..\\Tarea07-SeleniumWebdriver\\SeleniumDrivers\\chromedriver.exe";
     WebDriver driver;
     OSTHLogin pageLogin;
     OSTHHome pageHome;
